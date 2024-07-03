@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 8175648,
+      "category": "sport",
+      "title": "swimming",
+      "description": "let's be the first who can swinmming in the ocean.",
+      "location": "puhket",
+      "date": "July 12, 2022",
+      "time": "15:00",
+      "petsAllowed": false,
+      "organizer": "Ned"
     }
   ]
 }
